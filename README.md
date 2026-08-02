@@ -10,6 +10,10 @@ Engine, KV and Cron Triggers, at zero monthly cost while traffic grows. It is
 in production behind a 3,449-page site. What follows is the design, the schema,
 and the two mistakes that cost the most.
 
+It is the behaviour layer of a larger architecture, built before there was any
+business model to justify it. The reasoning for that order is here:
+[Designing for Optionality](https://smartsales.ai/en/writing/designing-for-optionality/).
+
 ## The axiom: two loads, two stores, never mixed
 
 The single most important decision, and the one that is easiest to get wrong on
